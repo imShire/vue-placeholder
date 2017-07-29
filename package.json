@@ -1,7 +1,7 @@
 {
     "name": "vue-placeholder",
     "version": "1.0.0",
-    "description": "A placeholder component for vue.js",
+    "description": "vue-placeholder component for vue.js(2.X),support pc and mobile.",
     "main": "dist/vue-placeholder.js",
     "module": "src/index.js",
     "scripts": {
@@ -11,6 +11,7 @@
     "keywords": [
         "vuejs",
         "vue",
+	    "ixu",
         "placeholder",
         "vue-placeholder"
     ],
