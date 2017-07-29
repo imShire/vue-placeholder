@@ -54,7 +54,7 @@ export default {
         },
         bgcolor: {
             type: String,
-            default: '#999'
+            default: 'random'
         }
     },
     data () {
