@@ -1,5 +1,5 @@
 {
-    "name": "vue-placeholder",
+    "name": "vue-placeholder.js",
     "version": "1.0.0",
     "description": "vue-placeholder component for vue.js(2.X),support pc and mobile.",
     "main": "dist/vue-placeholder.js",
@@ -13,7 +13,8 @@
         "vue",
 	    "ixu",
         "placeholder",
-        "vue-placeholder"
+        "vue-placeholder",
+        "vue-placeholder.js"
     ],
     "author": {
         "email": "i@janecc.com",
